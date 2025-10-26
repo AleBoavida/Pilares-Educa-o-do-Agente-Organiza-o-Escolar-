@@ -1,7 +1,4 @@
 
-Pilares Organizacao Escolar 
-Aqui está uma estrutura de repositório baseada nos 4 pilares do Agente de Organizador Escolar:
-
 *Repositório: Agente de Organizador Escolar*
 
 *Pilar 1: Planejamento e Organização*
