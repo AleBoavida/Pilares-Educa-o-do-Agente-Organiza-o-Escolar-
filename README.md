@@ -1,4 +1,3 @@
-
 *Repositório: Agente de Organizador Escolar*
 
 *Pilar 1: Planejamento e Organização*
