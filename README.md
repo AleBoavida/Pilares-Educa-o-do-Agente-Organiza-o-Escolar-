@@ -1,2 +1,2 @@
 # Pilares-Educa-o-do-Agente-Organiza-o-Escolar-
-Pilares Organização Escolar 
+Pilares Organizacao Escolar 
